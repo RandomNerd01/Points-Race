@@ -45,7 +45,21 @@ You have to download my Minecraft-Event-Scoreboard plugin. Then before '/race', 
 
 
 
-6) After game timer ends, admins have to do /main to add game points to main leadaerboard points
-7) 
+6) After game timer ends, admins have to do /main to add game points to main leaderboard points
+
+
+
+
+
+
+
+
+
+   ## Video Below Showing Full Plugin with Leaderboard plugin as well
+
+
+
+[![Minecraft Racing Position Plugin](https://i9.ytimg.com/vi_webp/b8Wj3geY2-I/mq1.webp?sqp=CLCUjLEG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgVCg6MA8=&rs=AOn4CLDlUkxbyDGp0Lgpu6GaMLFOhwxKyA)](https://youtu.be/b8Wj3geY2-I "Minecraft Racing Position Plugin")
+
 
 
