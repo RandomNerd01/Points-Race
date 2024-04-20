@@ -4,7 +4,19 @@
 Gives you points based off how quickly you complete a race. To work in conjunction with another one of my plugins called Minecraft-Event-Scoreboard
 
 
+
+Configurable points system in config.yml
+
+
+![image](https://github.com/Suiron99/Points-Race/assets/142955018/6c2262f0-d188-4a00-8dc7-891e9614bf6b)
+
+
+
+
 ## In-Game
+You have to download my Minecraft-Event-Scoreboard plugin. Then before '/race', admins have to '/startgame'. 
+
+
 
 1) Using '/race' starts this plugin.
 
@@ -29,5 +41,11 @@ Gives you points based off how quickly you complete a race. To work in conjuncti
 
 
 5) At end of timer for minigame, top 5 players will be shown.
+
+
+
+
+6) After game timer ends, admins have to do /main to add game points to main leadaerboard points
+7) 
 
 
